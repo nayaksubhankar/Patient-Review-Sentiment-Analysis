@@ -1,4 +1,4 @@
-**Patient Review Sentiment Analysis**
+**Patient Review Sentiment Analysis** <br>
 Sentiment Classification of patient reviews as positive or negative. The reviews in dataset are unlabelled.
 Two approaches:
 1. Labelling the data with a lexicon based scoring approach and then using the labels for a supervised learning model.
